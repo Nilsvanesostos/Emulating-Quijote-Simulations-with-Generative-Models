@@ -1,4 +1,4 @@
-# Score-Based Generative Modeling through Stochastic Differential Equations
+# Emulating Quijote Simulations with Generative Models
 -----
 This repo contains a survey for the paper [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
 
